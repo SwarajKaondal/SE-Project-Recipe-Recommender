@@ -28,13 +28,13 @@ const Recipes = () => {
     return chunks;
   };
   const recipes = [
-    { name: "Chopsuey", image: chopsuey, code: "6343589a540176212b44d4f8" },
+    { name: "Chopsuey", image: chopsuey, code: "66f76e495e8d3e2602da8fb2" },
     { name: "Grilled Burger", image: burger, code: "63435a92540176212b453037" },
-    { name: "Brownies", image: brownies, code: "634358ab540176212b44d7c4" },
+    { name: "Brownies", image: brownies, code: "66f76d825e8d3e2602da8fae" },
     { name: "Salmon Sushi", image: sushi, code: "63437b6c540176212b4ab6be" },
     { name: "Mocktail", image: mocktail, code: "634366f3540176212b471783" },
-    { name: "Pizza", image: pizza, code: "63435966540176212b44f9af" },
-    { name: "Chicken Salad", image: salad, code: "634358a4540176212b44d68c" },
+    { name: "Pizza", image: pizza, code: "66f76d195e8d3e2602da8fac" },
+    { name: "Chicken Salad", image: salad, code: "66f76d925e8d3e2602da8faf" },
     // { name: "Butter Chicken", image: butterChicken, code: "63435a69540176212b45289d" },
     // { name: "Chocolate Chip Cookies", image: cookies, code: "634360b3540176212b45ee4f" },
     // { name: "Thai Curry", image: curry, code: "63435a93540176212b453045" },
